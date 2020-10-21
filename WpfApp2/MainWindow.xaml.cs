@@ -23,7 +23,7 @@ namespace WpfApp2
         public MainWindow()
         {
             //dadaya
-            Console.WriteLine("Швепс... Хочу Швепс...");
+            Console.WriteLine("Пицца... Хочу Пиццы...");
             Console.ReadLine();
             Console.ReadKey();
             InitializeComponent();
