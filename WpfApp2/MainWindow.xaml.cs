@@ -26,6 +26,7 @@ namespace WpfApp2
             Console.WriteLine("Пицца... Хочу Пиццы...");
             Console.ReadLine();
             Console.ReadKey();
+            //пицца...
             InitializeComponent();
         }
     }
